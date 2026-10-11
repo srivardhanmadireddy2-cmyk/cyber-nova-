@@ -1,0 +1,6 @@
+{
+  "name": "Cybernova — AI Cybercrime & Scam Detection",
+  "description": "Project TRI26158 (Open Innovation): AI-powered detection of fraudulent messages, phishing URLs, spoofed emails, and online financial scams with explainable risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
